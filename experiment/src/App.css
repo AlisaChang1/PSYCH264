@@ -27,7 +27,7 @@
 .Bottom {
   display: inline-flex;
   position: absolute;
-  bottom: 0;
+  bottom: -22px;
 }
 
 /* @media (prefers-reduced-motion: no-preference) {
